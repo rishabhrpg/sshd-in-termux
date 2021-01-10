@@ -48,3 +48,6 @@ Now do `sshd` in termux to start the server.
   Type this command from within a Terminal
 
     > sftp -P 8022 IPofYourAndroid 
+    
+## References
+(https://github.com/tomhiggins/TermuxSSHDsetup)
